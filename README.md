@@ -3,7 +3,6 @@
 all java fills for Algorithems 2 
 
 
-**Algorithems 2 :**  
 * AlgoRehearsal
 * BFS
 * Best
